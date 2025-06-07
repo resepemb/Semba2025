@@ -127,9 +127,9 @@ A Universidade Aberta do Brasil - UAB desenvolveu um novo portal educacional onl
 O Quarto é uma plataforma de publicação de código aberto que permite a criação de documentos, livros e sites interativos. Ele é amplamente utilizado por cientistas, educadores e profissionais para compartilhar conhecimento e resultados de pesquisa de forma acessível e colaborativa.
 
 ### Extensões
-- https://quarto.org/docs/extensions/
-- https://github.com/resepemb/quarto-kroki
-- https://kroki.io/
+- [https://quarto.org/docs/extensions/](https://quarto.org/docs/extensions/)
+- [https://github.com/resepemb/quarto-kroki](https://github.com/resepemb/quarto-kroki)
+- [https://kroki.io/](https://kroki.io/)
 
 ::: footer
 [https://quarto.org/](https://quarto.org/)
