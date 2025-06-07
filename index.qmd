@@ -1,0 +1,155 @@
+---
+title: "Conhecimento Compartilhado"
+subtitle: "Filosofia do código aberto democratizando a informação"
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    navigation-mode: vertical
+---
+
+# Uma Estrutura de Colaboração e Conhecimento Compartilhado 
+
+
+O mundo open source, ou de código aberto, representa uma filosofia e um modelo de desenvolvimento que transcende o software, abrangendo áreas como hardware, literatura e educação.
+
+
+# Os Pilares da Cultura Open Source
+
+- Acesso: Qualquer pessoa pode acessar, usar e sugerir modificações.
+- Colaboração: Trabalho conjunto para melhorar e inovar.
+- Inclusão: Qualquer pessoa pode participar, independentemente de sua origem.
+- Transparência: Processos de desenvolvimento e tomada de decisão abertos.
+- Comunidade: O ecossistema de desenvolvedores, usuários e entusiastas.
+
+
+# Mundo Fechado vs Mundo Aberto
+
+:::: {.columns}
+
+::: {.column}
+
+- Acesso Restrito: Limitações por custos, patentes e segredos comerciais.
+- Inovação Lenta: Obriga cada um a "reinventar a roda".
+- Colaboração Difícil: Fluxo de informação unilateral, sem diálogo.
+
+::: 
+    
+::: {.column}
+
+- Acesso Livre: Qualquer pessoa pode ver como algo funciona.
+- Modificação: Adapte soluções para suas próprias necessidades.
+- Compartilhamento: Melhorias beneficiam toda a comunidade em um ciclo virtuoso.
+
+:::
+
+::::
+
+# Iniciativas de democratização do conhecimento
+
+## Projeto Gutenberg
+
+É talvez o mais famoso e um dos mais antigos projetos de digitalização de livros. Seu foco são obras em domínio público, ou seja, aquelas cujos direitos autorais já expiraram. É uma fonte inestimável para a literatura clássica mundial.
+
+
+::: footer
+[https://www.gutenberg.org/browse/languages/pt](https://www.gutenberg.org/browse/languages/pt)
+:::
+
+## Internet Archive
+
+É uma biblioteca digital sem fins lucrativos que oferece acesso gratuito a uma vasta coleção de livros, filmes, músicas e outros conteúdos digitais. Seu objetivo é preservar o conhecimento e a cultura para as gerações futuras.
+
+
+::: footer
+[https://archive.org/details/texts?sort=-date&and%5B%5D=language%3A%22Portuguese%22](https://archive.org/details/texts?sort=-date&and%5B%5D=language%3A%22Portuguese%22)
+
+:::
+
+## OpenStax
+
+É uma iniciativa educacional da Rice University, uma universidade sem fins lucrativos localizada em Houston, Texas, conhecida por sua filosofia de código aberto e seu compromisso com a democratização do conhecimento, oferecendo livros didáticos gratuitos e de alta qualidade.
+
+
+::: footer
+[https://openstax.org/subjects](https://openstax.org/subjects)
+:::
+
+
+## WikiBooks
+
+O Wikibooks é uma comunidade do Movimento Wikimedia dedicada ao desenvolvimento colaborativo (wiki) de livros, apostilas, manuais e outros recursos educacionais de conteúdo livre.
+
+::: footer
+[https://pt.wikibooks.org/wiki/Wikilivros:P%C3%A1gina_principal](https://pt.wikibooks.org/wiki/Wikilivros:P%C3%A1gina_principal)
+
+:::
+
+## Portal de Livros Abertos da USP
+
+O Portal de Livros Abertos da USP, criado em 2016, promove a reunião e divulgação dos livros digitais acadêmicos e científicos publicados pelas Unidades, Institutos, Centros e Museus da Universidade de São Paulo. 
+
+::: footer
+[https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog](https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog)
+
+:::
+
+## UnB (Universidade de Brasília) – Biblioteca Digital da Produção Intelectual
+
+A Biblioteca Digital da Produção Intelectual Discente da Universidade de Brasília é um sistema de informação mantido pela Biblioteca Central com a finalidade de armazenar, preservar e divulgar a produção intelectual dos discentes de graduação e de especialização da Universidade. O acervo está disponível publicamente, proporcionando maior visibilidade e impacto da produção acadêmica da UnB.
+
+::: footer
+
+[https://bce.unb.br/acervos/acervo-geral/](https://bce.unb.br/acervos/acervo-geral/)
+:::
+
+## PNLD Digital
+
+Esta é a nova ferramenta que auxiliará o FNDE e seus parceiros na garantia do direito de todos os estudantes e professores a livros e materiais de qualidade, no âmbito do PNLD, colaborando para a melhoria contínua da educação pública brasileira
+
+::: footer
+
+[https://pnlddigital.fnde.gov.br/login](https://pnlddigital.fnde.gov.br/login)
+:::
+
+## eduCAPES
+
+A Universidade Aberta do Brasil - UAB desenvolveu um novo portal educacional online com objetos educacionais para uso de alunos e professores da educação básica, superior e pós graduação que busquem aprimorar seus conhecimentos
+
+::: footer
+[https://educapes.capes.gov.br/](https://educapes.capes.gov.br/)
+:::
+
+## Quarto.org
+
+O Quarto é uma plataforma de publicação de código aberto que permite a criação de documentos, livros e sites interativos. Ele é amplamente utilizado por cientistas, educadores e profissionais para compartilhar conhecimento e resultados de pesquisa de forma acessível e colaborativa.
+
+### Extensões
+- https://quarto.org/docs/extensions/
+- https://github.com/resepemb/quarto-kroki
+- https://kroki.io/
+
+::: footer
+[https://quarto.org/](https://quarto.org/)
+:::
+
+# Rede de Educação e Saúde
+
+<iframe width="100%" height="500px" frameborder="0" src="https://resepemb.github.io/rede-educacao-e-saude/"></iframe>
+
+
+::: footer
+[https://resepemb.github.io/rede-educacao-e-saude/](https://resepemb.github.io/rede-educacao-e-saude/)
+:::
+
+# App Super Info
+
+<iframe width="100%" height="500px" frameborder="0" src="https://resepemb.github.io/app-super-info/"></iframe>
+
+
+::: footer
+[https://resepemb.github.io/app-super-info/](https://resepemb.github.io/app-super-info/)
+:::
+
